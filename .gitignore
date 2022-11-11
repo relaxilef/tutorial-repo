@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+git add
+git pull
+git push
+git status
+git merge
